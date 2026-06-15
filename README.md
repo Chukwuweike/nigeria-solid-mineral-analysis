@@ -34,16 +34,16 @@ Microsoft Excel — data cleaning, KPI derivation, and charting
 
 ## The Core Insight
 
-Nigeria mines minerals the world increasingly wants, and responds to global demand signals — but exports them as raw ore rather than processed material, capturing a fraction of their eventual value. The opportunity is not more extraction; it's more processing.
+Nigeria mines minerals the world increasingly wants and responds to global demand signals — but exports them as raw ore rather than processed materials, capturing only a fraction of their eventual value. The opportunity is not more extraction; it's more processing.
 
 ## Files
 
-- `report.pdf` — Full analysis report with methodology, charts, and findings
+- `mineral_report.pdf` — Full analysis report with methodology, charts, and findings
 - `raw_data.xlsx` — Source data tables (NEITI production/export figures, BGS global production, derived KPI calculations)
 
 ## Limitations
 
-This analysis is based on a two-year window (2022–2023), which limits long-term trend analysis. Classification differences between NEITI and BGS datasets (e.g. lead/zinc reported jointly vs. separately) introduce some uncertainty in global comparisons. No price, value, firm-level, or mine-level data is included — findings are volume-based only.
+This analysis is based on a two-year window (2022–2023), which limits the ability to analyse long-term trends. Classification differences between NEITI and BGS datasets (e.g. lead/zinc reported jointly vs. separately) introduce some uncertainty in global comparisons. No price, value, firm-level, or mine-level data is included — findings are volume-based only.
 
 ## Author
 Azeh C. A.
